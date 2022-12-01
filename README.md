@@ -4,4 +4,4 @@
 Tutorial by Zero To Code
 
 ## Tags
-html, javascript, json, front-end web development, tutorial
+html, css, javascript, json, front-end web development, tutorial
